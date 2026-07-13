@@ -1,2 +1,2 @@
 # Snake-Game
-Creator - Rohit Yadav
+Creator - Rohit Yadav (s4spideyy)
